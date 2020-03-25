@@ -8,7 +8,7 @@ Route and monitor MIDI messages from one device to another
 ## Download
 
 * [MidiRouter Windows Executable](bin/win64/MidiRouter.exe)
-
+* [MidiRouter Linux Binary (Ubuntu 16.04)](bin/ubuntu-16.04/MidiRouter)
 
 ## Dependencies: 
 
